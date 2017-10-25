@@ -9,6 +9,6 @@ You should create one R script called run_analysis.R that does the following.
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 
-Run run_analysis.R and it will download the data source and put into a folder in your working directory. You'll have a UCI HAR Dataset folder with all the test and train datasets needed for this assignment.
+Run run_analysis.R and it will download the data source and place it into a folder in your working directory. You'll have a UCI HAR Dataset folder with all the test and train datasets needed for this assignment.
 
 run_analysis.R then will generate a new file tiny_data.txt in your working directory.
